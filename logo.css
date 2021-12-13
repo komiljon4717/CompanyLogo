@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(100, 23, 243);
+}
+
+h3{
+    padding: 30px;
+    text-align: center;
+    color: silver;
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    height: 30px;
+    background-color: silver;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    width: 220px;
+    margin-top: 20px;
+}
+.box{
+    margin: auto;
+    background-color: white;
+    width: 300px;
+    height: 550px;
+    border-radius: 5px;
+}
+#one{
+    margin-top: 110px;
+    margin-left: 70px;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+#two{
+    width: 150px;
+    margin-left: 35px;
+}
+
